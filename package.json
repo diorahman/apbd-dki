@@ -1,0 +1,26 @@
+{
+  "name": "apbd-dki",
+  "version": "0.0.1",
+  "description": "APBD DKI Jakarta",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "jakarta",
+    "apbd",
+    "dki"
+  ],
+  "author": "Dhi Aurrahman <diorahman@rockybars.com>",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^0.17.0",
+    "request": "^2.34.0",
+    "async": "^0.7.0",
+    "cheerio": "^0.15.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "should": "^3.3.1"
+  }
+}
